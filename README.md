@@ -10,3 +10,12 @@
   $ .\a.out
   ```
   Here, inside the `''` is the C file's name.
+# Core, GED & Lab Course
+Find your course credits from Student Portal > Registered Course.
+- Course Codes starting with CSE are Core Course. (PPS, DS, Electrical Cirsuits, etc.)
+- Course Codes starting without CSE are GED Course. (English, Math, Physics, etc.)
+- Course Names ending with Lab are Lab Course. (DS Lab, Physics Lab, etc.)
+# Tution Fee @ credit and Registration Sheet
+- Registration Amount Sheet: https://docs.google.com/spreadsheets/d/1IPkAivEjVZVw8kwrV00q2gfNGNy4fk_5/edit
+- You will find the Fee per Credit on the Admission Prospectus which was given during admission. Below is the latest Prospectutus for new batches. Note that the Tution Fee varies from batch to batch.
+  ![DIU CSE Prospectus](https://webbackend.daffodilvarsity.edu.bd/images/prospectus/BSc-in-CSE.jpg)
